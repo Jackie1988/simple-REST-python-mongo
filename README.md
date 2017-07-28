@@ -12,5 +12,6 @@ with the url: http://127.0.0.1:5000/room
 Then view your hotels by playing around with the two GET HTTP functions in the script via Postman, using urls:
 
 http://127.0.0.1:5000/room
+
 http://127.0.0.1:5000/room/name_of_hotel
 
